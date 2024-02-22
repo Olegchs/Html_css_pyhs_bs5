@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Tenor%20Sans&display=swap');
+
+body {
+    font-family: Tenor Sans, serif;
+    background: #ffffff url(../images/wall3.jpg) center center/cover no-repeat;
+    height: 900px;
+}
+
+.nav-link {
+    color: rgb(145, 145, 145);
+}
+
+.navbar-nav .nav-link.active {
+    color: rgb(150, 150, 150);
+}
+
+.navbar-brand img {
+    width: 90px;
+}
+
+.navbar-toggler {
+    background-color: rgb(145, 145, 145);
+}
+
+.card-img-top { 
+    float:left;
+    overflow:hidden;
+    position:relative;
+    width:502.35px;
+    margin-bottom: 25px;
+    float:left;
+    height: 300px;
+}
+
+.slide-text {
+    color: black;
+    font-size: larger;
+    margin: auto auto; 
+}
+
